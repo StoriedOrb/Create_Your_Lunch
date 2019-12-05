@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.539
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Create_your_lunch", "Create_your_lunch\Create_your_lunch.csproj", "{3939F661-43AC-49D9-88F6-40D92B91E899}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Create_your_lunch", "Create_your_lunch.csproj", "{3939F661-43AC-49D9-88F6-40D92B91E899}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {C19E4ED3-79ED-4D08-A549-09631BA700B8}
+		SolutionGuid = {414CE685-ECD0-4F3A-9C38-6FDBBBC3C299}
 	EndGlobalSection
 EndGlobal
