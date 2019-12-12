@@ -199,6 +199,13 @@ namespace Create_your_lunch
             itog = FP + HP + MP + BBQ + CP + BM + P + R + BT + MF + CR + TL + FR + SY + SL + DCurier + DCycle + DCar + DHelicopter;
 
             CheckList.Text += "Итог:" + itog + "рублей";
+
+            if (Curier.Checked == false && Curier_cycle.Checked == false && Curier_car.Checked == false && Curier_helicopter.Checked == false)
+            {
+                MessageBox.Show("Вы не выбрали способ доставки!");
+
+                CheckList.Clear();
+            }
         } 
     }
 }
